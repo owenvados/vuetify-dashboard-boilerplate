@@ -1,2 +1,2 @@
 # vuetify-dashboard-boilerplate
-Admin dashboard based in VVue, vvuetify and Firebase
+Admin dashboard based in Vue, vvuetify and Firebase
